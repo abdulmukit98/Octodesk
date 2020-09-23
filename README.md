@@ -7,3 +7,4 @@
 ### octav terminal
     octave-cli
     octave --gui
+    load /home/abdul/Download/mat/handel.mat
